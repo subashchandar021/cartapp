@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.Shop {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.card {
+  padding: 40px;
+}
+.kart {
+  text-align: right;
+}
+.select {
+  background-color: darkorchid;
+  height: 50px;
+  padding: 0.5px;
+  text-align: center;
+  color: snow;
+}
+.Items {
+  background-color: darkorchid;
+  height: 50px;
+  padding: 0.5px;
+  text-align: center;
+  color: snow;
+}
